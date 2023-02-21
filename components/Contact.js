@@ -17,7 +17,7 @@ const Contact = () => {
           </div>
           <div className='bg-contactYellow bg-center bg-cover bg-no-repeat flex-1 
             flex justify-center items-end h-full'>
-                <Image src={Img1} alt='' className='w-[540px]'/>
+                <Image src={Img1} alt='' className='w-[480px]'/>
           </div>
       </div>
     </section>

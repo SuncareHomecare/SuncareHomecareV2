@@ -5,7 +5,7 @@ import Img1 from '../public/img/summary/assist.png';
 const Summary = () => {
   return (
     <section id='summary' className='bg-summary bg-cover bg-center bg-no-repeat min-h-[760px] py-8 flex'>
-      <div className='container mx-auto flex flex-col lg:flex-row items center justify-center gap-x-16'>
+      <div className='container mx-auto flex flex-col lg:flex-row items-center justify-center gap-x-16'>
         <div className='flex-1 mb-6 lg:mb-0'>
             <Image src={Img1} width={542} height={560} alt='' />
         </div>
