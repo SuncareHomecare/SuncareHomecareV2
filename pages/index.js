@@ -1,19 +1,19 @@
 // import components
-import Pets from '../components/Pets';
+import About from '../components/About.js';
 import Hero from '../components/Hero';
 import Services from '../components/Services';
-import Adoption from '../components/Adoption';
-import Newsletter from '../components/Newsletter';
+import Summary from '../components/Summary';
+import Contact from '../components/Contact';
 import Footer from '../components/Footer';
 
 const Home = () => {
   return (
-    <div className='max-w-[1440px] mx-auto overflow-hidden'>
+    <div className='mx-auto overflow-hidden'>
       <Hero />
-      <Pets />
+      <About />
+      <Summary />
       <Services />
-      <Adoption />
-      <Newsletter />
+      <Contact />
       <Footer />
     </div>
   );

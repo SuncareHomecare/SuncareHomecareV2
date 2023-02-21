@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="112" height="112" viewBox="0 0 112 112" xml:space="preserve">
+<desc>Created with Fabric.js 3.5.0</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="rgba(255,255,255,0)"/>
+<g transform="matrix(7 0 0 7 56.5 56.5)" id="399557">
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(251,189,8); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" cx="0" cy="0" r="8"/>
+</g>
+<g transform="matrix(4.2292 0 0 4.2292 60.6669 56.0003)" id="667337">
+<g style="" vector-effect="non-scaling-stroke">
+		<g transform="matrix(1 0 0 1 -0.5001 0.0003)">
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(6,45,62); fill-rule: nonzero; opacity: 1;" transform=" translate(-7.4999, -8.0003)" d="M 6 0.278 a 0.768 0.768 0 0 1 0.08 0.858 a 7.208 7.208 0 0 0 -0.878 3.46 c 0 4.021 3.278 7.277 7.318 7.277 c 0.527 0 1.04 -0.055 1.533 -0.16 a 0.787 0.787 0 0 1 0.81 0.316 a 0.733 0.733 0 0 1 -0.031 0.893 A 8.349 8.349 0 0 1 8.344 16 C 3.734 16 0 12.286 0 7.71 C 0 4.266 2.114 1.312 5.124 0.06 A 0.752 0.752 0 0 1 6 0.278 z" stroke-linecap="round"/>
+</g>
+		<g transform="matrix(1 0 0 1 3.9988 -3.4989)">
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(6,45,62); fill-rule: nonzero; opacity: 1;" transform=" translate(-11.9989, -4.5011)" d="M 10.794 3.148 a 0.217 0.217 0 0 1 0.412 0 l 0.387 1.162 c 0.173 0.518 0.579 0.924 1.097 1.097 l 1.162 0.387 a 0.217 0.217 0 0 1 0 0.412 l -1.162 0.387 a 1.734 1.734 0 0 0 -1.097 1.097 l -0.387 1.162 a 0.217 0.217 0 0 1 -0.412 0 l -0.387 -1.162 A 1.734 1.734 0 0 0 9.31 6.593 l -1.162 -0.387 a 0.217 0.217 0 0 1 0 -0.412 l 1.162 -0.387 a 1.734 1.734 0 0 0 1.097 -1.097 l 0.387 -1.162 z M 13.863 0.099 a 0.145 0.145 0 0 1 0.274 0 l 0.258 0.774 c 0.115 0.346 0.386 0.617 0.732 0.732 l 0.774 0.258 a 0.145 0.145 0 0 1 0 0.274 l -0.774 0.258 a 1.156 1.156 0 0 0 -0.732 0.732 l -0.258 0.774 a 0.145 0.145 0 0 1 -0.274 0 l -0.258 -0.774 a 1.156 1.156 0 0 0 -0.732 -0.732 l -0.774 -0.258 a 0.145 0.145 0 0 1 0 -0.274 l 0.774 -0.258 c 0.346 -0.115 0.617 -0.386 0.732 -0.732 L 13.863 0.1 z" stroke-linecap="round"/>
+</g>
+</g>
+</g>
+</svg>
