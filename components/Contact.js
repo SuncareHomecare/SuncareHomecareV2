@@ -10,7 +10,7 @@ const Contact = () => {
             flex flex-col justify-center items-center px-8 lg:px-0 h-full'>
             <h2 className='h2 my-12'>Contact Us</h2>
             <ul className='mb-[38px] flex flex-col gap-y-4 lg:list-disc lg:pl-4'>
-                <li>Email: suncarehomecare@gmail.com</li>
+                <li>Email: suncare.homecare@gmail.com</li>
                 <li>Phone: (763) 291-2522</li>
                 <li>Location: Twin Cities, MN</li>
             </ul>
